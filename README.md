@@ -1,4 +1,4 @@
-# Loan Approval Prediction Using Machine Learning 💳🤖  
+# Loan Approval Prediction Using Machine Learning 
 
 This project simplifies the loan approval process for banks by leveraging machine learning to predict whether a candidate's profile is suitable for loan approval. Using key features such as Marital Status, Education, Applicant Income, Credit History, and more, the model provides accurate predictions to streamline decision-making.  
 
